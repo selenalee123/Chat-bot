@@ -14,6 +14,6 @@ Predict the response
 
 
 This is the sample of the conversation between bot and Human 
-![]Screenshot 2020-11-09 001718.png
+![](Screenshot 2020-11-09 001718.png)
 
 I am in the progress of learning this chat bot project. Feel free to leave any comment 
