@@ -4,12 +4,19 @@
 
 
 Import and load the data file
+
 Preprocess data
+
 Tokenizing is the process of breaking the whole text into small parts like words.
+
 Lemmatize each word and remove duplicate words from the list
+
 Create training and testing data
+
 Build the model
+
 Build a deep neural network that has 3 layers.
+
 Predict the response
 
 
